@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938500572948",
+    "firebase_url": "https://photoqusetion.firebaseio.com",
+    "project_id": "photoqusetion",
+    "storage_bucket": "photoqusetion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938500572948:android:5a91a9129ba0c32c82e401",
+        "android_client_info": {
+          "package_name": "com.github.yuukidoi.photoquestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938500572948-05tda1e8n3h1h2f9hicnfelohpggb794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAo1mnpL4n8105ljjSwtJI1sAl57EwZaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938500572948-05tda1e8n3h1h2f9hicnfelohpggb794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
